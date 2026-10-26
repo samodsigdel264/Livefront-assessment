@@ -1,0 +1,51 @@
+school_id,name,address,city,state,zip_code,created_at
+1,Cyberdyne Elementary School,4606 Oak St,Riverside,TX,23434,2019-03-18 00:00:00
+2,Nite Owl Elementary School,9774 School St,Springfield,CA,22280,2021-10-11 00:00:00
+3,Soylent High School,9963 Main St,Fairview,TX,95181,2019-01-26 00:00:00
+4,Nite Owl Middle School,3711 School St,Fairview,NY,10851,2022-02-09 00:00:00
+5,Giedi Prime Middle School,4652 Oak St,Riverside,NY,23396,2022-06-26 00:00:00
+6,Cloud Kingdom Elementary School,5981 Elm St,Fairview,NY,15695,2020-06-05 00:00:00
+7,Baldur High School,6025 Oak St,Springfield,CA,96673,2021-09-22 00:00:00
+8,Baldur Elementary School,3914 Main St,Georgetown,NY,69429,2019-06-10 00:00:00
+9,Fire Kingdom Elementary School,6165 Elm St,Riverside,NY,99593,2019-05-15 00:00:00
+10,Twin Peaks High School,2903 Oak St,Riverside,FL,59735,2021-06-28 00:00:00
+11,Ooo Elementary School,3852 Main St,Madison,FL,45093,2022-08-19 00:00:00
+12,Slurm High School,5255 Oak St,Georgetown,FL,94259,2020-06-06 00:00:00
+13,Tyrell Middle School,2387 Oak St,Fairview,IL,44438,2019-09-22 00:00:00
+14,Giedi Prime High School,6643 Elm St,Riverside,TX,76784,2020-03-27 00:00:00
+15,Weyland Elementary School,1896 Oak St,Riverside,FL,88172,2022-08-24 00:00:00
+16,Cloud Kingdom Middle School,9863 School St,Fairview,NY,82512,2022-12-09 00:00:00
+17,Cyberdyne High School,8897 Elm St,Madison,CA,48469,2020-07-25 00:00:00
+18,Wonka Middle School,153 Elm St,Fairview,TX,76542,2022-05-29 00:00:00
+19,Ravenloft High School,8417 Oak St,Riverside,NY,31174,2019-12-24 00:00:00
+20,Comedian Elementary School,9913 Elm St,Georgetown,CA,24662,2020-12-19 00:00:00
+21,Ravenloft Elementary School,1049 Oak St,Fairview,CA,21226,2020-04-11 00:00:00
+22,OCP Elementary School,7887 Oak St,Madison,IL,89507,2020-08-18 00:00:00
+23,Brawndo High School,5207 School St,Madison,FL,77839,2020-06-21 00:00:00
+24,Soylent Elementary School,5639 Main St,Fairview,IL,40161,2019-09-14 00:00:00
+25,Hill Valley Elementary School,1204 Main St,Madison,CA,77391,2021-09-01 00:00:00
+26,Neverwinter High School,8053 Oak St,Fairview,TX,84847,2019-10-09 00:00:00
+27,Veidt Elementary School,7849 School St,Riverside,CA,22704,2019-04-23 00:00:00
+28,Ix High School,987 Main St,Springfield,FL,54473,2022-05-23 00:00:00
+29,Rivendell Elementary School,3216 School St,Riverside,FL,34050,2021-06-10 00:00:00
+30,Ix Elementary School,1335 School St,Fairview,CA,16630,2019-05-07 00:00:00
+31,Manhattan Middle School,3602 School St,Springfield,TX,59672,2022-12-28 00:00:00
+32,Ix Middle School,7030 School St,Riverside,TX,48890,2021-10-13 00:00:00
+33,Hill Valley High School,8983 Main St,Madison,CA,16572,2019-09-23 00:00:00
+34,Veidt High School,8801 Oak St,Springfield,IL,20500,2021-12-17 00:00:00
+35,Rivendell Middle School,2064 Oak St,Fairview,IL,15209,2019-07-13 00:00:00
+36,Weyland Middle School,9662 Elm St,Madison,TX,97782,2021-03-29 00:00:00
+37,Arrakis Elementary School,5015 School St,Madison,CA,11220,2020-06-07 00:00:00
+38,Yutani Elementary School,8908 Oak St,Fairview,NY,27361,2021-01-17 00:00:00
+39,Twin Peaks Elementary School,6154 Elm St,Riverside,FL,81200,2019-01-22 00:00:00
+40,Waterdeep Elementary School,1853 Oak St,Madison,NY,89276,2021-10-27 00:00:00
+41,Dungeon Elementary School,4425 School St,Madison,CA,22097,2019-06-12 00:00:00
+42,Hawkins Elementary School,5564 Oak St,Madison,TX,67912,2019-11-29 00:00:00
+43,Sunnydale Elementary School,1332 Oak St,Fairview,CA,58393,2019-09-27 00:00:00
+44,Ravenloft Middle School,753 Elm St,Riverside,TX,97416,2022-06-05 00:00:00
+45,Candy Kingdom High School,6758 Oak St,Riverside,TX,33206,2020-09-09 00:00:00
+46,Springfield Elementary School,5542 School St,Riverside,NY,30866,2019-01-26 00:00:00
+47,Yutani Middle School,734 School St,Riverside,TX,70332,2021-01-15 00:00:00
+48,Brawndo Middle School,5478 Elm St,Springfield,NY,56025,2019-05-29 00:00:00
+49,Rorschach Middle School,8885 Elm St,Springfield,CA,44237,2022-01-01 00:00:00
+50,Yutani High School,7219 Elm St,Madison,FL,89457,2020-02-19 00:00:00
